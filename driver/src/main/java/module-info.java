@@ -1,0 +1,3 @@
+module driver {
+    requires car;
+}
